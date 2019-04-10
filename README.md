@@ -6,9 +6,9 @@ Au cours de ce workshop, vous apprendrez à lire et comprendre des fichiers SVG,
 
 ## Ressources 
 
-Il vous est vivement conseillé de suivre la présentation sur les **[slides fournis]**(https://docs.google.com/presentation/d/1Ogi6gAtU7whADbwcTGsIx-EcNW1fClgrx6vYwYAB0Qc/edit?usp=sharing). Ceux-ci vous permettront de de comprendre et repasser plus facilement sur certains concepts, en plus de vous fournir *des liens extrêment utiles*.
+Il vous est vivement conseillé de suivre la présentation sur les **[slides fournis](https://docs.google.com/presentation/d/1Ogi6gAtU7whADbwcTGsIx-EcNW1fClgrx6vYwYAB0Qc/edit?usp=sharing)**. Ceux-ci vous permettront de de comprendre et repasser plus facilement sur certains concepts, en plus de vous fournir *des liens extrêment utiles*.
 
-En plus de cela, vous pourrez consultez toutes séries d'exemples réalisés par mes soins sur une **[github page]**(https://olivierk95.github.io/animations_svg/pages/abc.html). En cas de pépin, le code des svg réalisés pourra vous être très utile afin de *vous sortir de situations complexes* (grâce à l'outil d'inspection du code).
+En plus de cela, vous pourrez consultez toutes séries d'exemples réalisés par mes soins sur une **[github page](https://olivierk95.github.io/animations_svg/pages/abc.html)**. En cas de pépin, le code des svg réalisés pourra vous être très utile afin de *vous sortir de situations complexes* (grâce à l'outil d'inspection du code).
 
 ## Structure du Workshop
 
