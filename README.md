@@ -2,7 +2,7 @@
 
 Au fil des années, le SVG (**Scalable Vector Graphics**) est devenu un format incontournable du web. C'est avant tout sa faible taille et sa facilité à être animé qui ont convaincus les designers et web développeurs.
 
-Au cours de ce workshop, vous apprendrez à lire et comprendre des fichiers SVG, mais également à pouvoir les modifier et les animer avec pour qu'ils satisfassent pleinement vos besoins.
+Au cours de ce workshop, vous apprendrez à lire et comprendre des fichiers SVG, mais également à pouvoir les modifier et les animer pour qu'ils satisfassent pleinement vos besoins.
 
 ## Ressources 
 
